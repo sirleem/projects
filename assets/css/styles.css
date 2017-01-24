@@ -1,0 +1,136 @@
+*{
+	background-color:white;
+	text-align: left;
+	color: black;
+	margin: 10px;
+}
+
+body{
+
+	padding-left: 7px ;
+	padding-right: 20px;
+	border: 50px solid maroon;
+	margin: 0px;
+	align-content: center;
+	width: 800px;
+	height: 2300px;
+}
+
+h3 {
+	font-family: cursive;
+	
+}
+
+h3 span {
+	font-family: cursive;
+	color: red;
+}
+
+h6 {
+	font-family: cursive;
+	font-size: 10px;
+}
+
+div{
+	width: 700px;
+}
+
+.para-two{
+	font-family: Garamond;
+	font-size: 15px;
+}
+
+.para-one{
+	font-family: cursive;
+	font-size: 8px;
+}
+.first {
+	font-family: Garamond;
+	margin: 10px;
+	float: right;
+	font-size: 14px;
+	margin-top: 15px;
+}
+
+.first img{
+	height: 60px;
+	display:inline-block;
+	float: left;
+	margin-top: 0px;
+}
+
+
+.two{
+	font-family: Garamond;
+	margin: 0px;
+	float: left;
+	vertical-align: middle;
+	font-size: 17px;
+	text-align: left;
+}
+
+.two img{
+	float: right;
+	height: 100px;
+	width: 500px;
+}
+
+.three{
+
+}
+
+.four{
+	float:right;
+	margin-top: 15px;
+	font-size: 16px;
+}
+
+.four img{
+	margin-top: 4px;
+	float: left;
+	width: 350px;
+	height: 150px;
+}
+
+.five{
+
+}
+
+.six{
+
+}
+
+.eight{
+	text-align: center;
+	margin: 20px;
+}
+
+.nine{
+
+}
+
+.ten{
+
+}
+
+a:link {
+	color: blue;
+}
+
+.eleven{
+	border-color: white;
+	border-style: solid;
+	text-align: center;
+}
+.eleven img{
+	position: relative;
+	width: 590px;
+	height: 150px;
+	margin: 50px;
+
+}
+
+.twelve{
+	margin-top: 10px;
+	text-align: left;
+}
